@@ -1,0 +1,301 @@
+shipment_id,region,transport_mode,distance_km,shipment_volume_units,weather_condition,delivery_time_hours,transportation_cost_usd,delivery_status
+SHP0001,East,Road,107,19,Normal,11.29,99.72,On Time
+SHP0002,West,Air,779,42,Normal,4.16,410.23,On Time
+SHP0003,East,Rail,662,1,Normal,20.26,83.02,On Time
+SHP0004,North,Road,450,45,Normal,5.76,214.67,On Time
+SHP0005,West,Road,444,28,Normal,13.16,189.57,On Time
+SHP0006,East,Road,862,8,Normal,15.63,158.21,On Time
+SHP0007,South,Air,104,16,Normal,1.66,195.27,On Time
+SHP0008,East,Road,704,28,Rain,18.77,204.04,On Time
+SHP0009,West,Rail,217,16,Normal,3.45,126.35,On Time
+SHP0010,West,Road,112,6,Normal,5.36,37.61,On Time
+SHP0011,West,Road,536,34,Normal,13.96,189.65,On Time
+SHP0012,South,Road,977,34,Normal,18.85,179.15,On Time
+SHP0013,West,Air,741,6,Normal,1.0,300.69,On Time
+SHP0014,South,Road,766,15,Normal,14.44,162.34,On Time
+SHP0015,East,Road,723,13,Rain,21.2,178.72,Late
+SHP0016,East,Rail,791,33,Normal,16.82,213.5,On Time
+SHP0017,North,Road,523,37,Normal,8.04,210.69,On Time
+SHP0018,South,Air,145,37,Normal,5.78,243.49,On Time
+SHP0019,North,Road,843,47,Normal,16.73,269.47,On Time
+SHP0020,North,Road,461,39,Normal,11.25,194.1,On Time
+SHP0021,South,Road,510,17,Normal,16.05,148.82,Late
+SHP0022,South,Road,383,6,Normal,10.2,132.19,On Time
+SHP0023,North,Road,199,31,Normal,7.9,151.34,On Time
+SHP0024,South,Road,929,46,Rain,28.38,280.81,Late
+SHP0025,East,Road,786,49,Normal,15.99,275.41,On Time
+SHP0026,North,Road,651,12,Rain,14.28,122.51,On Time
+SHP0027,South,Road,414,12,Normal,10.57,151.02,On Time
+SHP0028,South,Road,827,2,Normal,16.95,147.39,On Time
+SHP0029,East,Road,555,8,Rain,15.06,129.47,On Time
+SHP0030,South,Road,454,28,Rain,10.59,157.15,On Time
+SHP0031,East,Road,461,28,Normal,18.06,155.35,On Time
+SHP0032,South,Road,242,19,Rain,11.14,121.45,On Time
+SHP0033,South,Road,110,16,Normal,2.64,129.07,On Time
+SHP0034,South,Road,564,42,Normal,14.24,199.96,On Time
+SHP0035,North,Road,891,24,Severe,25.4,207.53,On Time
+SHP0036,East,Road,82,41,Normal,5.05,154.15,On Time
+SHP0037,North,Road,861,49,Rain,21.32,259.88,Late
+SHP0038,South,Road,831,16,Normal,12.17,172.76,On Time
+SHP0039,West,Road,291,11,Rain,11.96,174.31,On Time
+SHP0040,West,Road,639,48,Normal,18.19,212.27,On Time
+SHP0041,East,Rail,182,32,Normal,9.85,190.12,On Time
+SHP0042,West,Road,763,15,Normal,13.69,165.82,On Time
+SHP0043,West,Rail,707,32,Normal,17.29,188.28,On Time
+SHP0044,South,Road,367,26,Normal,7.5,166.17,Late
+SHP0045,West,Rail,86,46,Normal,4.2,200.34,On Time
+SHP0046,South,Road,972,13,Normal,16.9,168.61,Late
+SHP0047,South,Road,457,50,Normal,12.6,272.17,Late
+SHP0048,East,Road,896,47,Normal,13.43,250.84,On Time
+SHP0049,West,Road,685,10,Rain,19.45,169.55,On Time
+SHP0050,West,Road,783,9,Normal,13.98,131.46,On Time
+SHP0051,South,Rail,765,27,Rain,24.56,165.58,Late
+SHP0052,East,Air,210,3,Normal,1.81,148.87,On Time
+SHP0053,North,Air,376,15,Rain,11.06,255.64,On Time
+SHP0054,West,Road,477,22,Normal,13.83,195.06,On Time
+SHP0055,East,Road,508,49,Normal,15.0,236.44,On Time
+SHP0056,East,Rail,62,50,Normal,1.64,195.06,On Time
+SHP0057,West,Road,556,8,Normal,13.88,100.35,On Time
+SHP0058,East,Rail,171,45,Normal,9.43,185.19,Late
+SHP0059,North,Road,749,5,Normal,10.03,94.95,On Time
+SHP0060,South,Road,690,38,Severe,22.55,199.24,On Time
+SHP0061,North,Road,924,43,Normal,18.24,258.14,On Time
+SHP0062,East,Rail,750,45,Normal,22.72,248.41,On Time
+SHP0063,North,Road,379,12,Severe,18.33,192.45,On Time
+SHP0064,North,Road,969,45,Normal,18.72,247.6,On Time
+SHP0065,East,Road,423,6,Normal,15.13,145.97,On Time
+SHP0066,East,Road,339,26,Rain,16.65,167.08,On Time
+SHP0067,East,Road,908,24,Rain,13.94,194.67,On Time
+SHP0068,West,Rail,383,16,Normal,10.62,129.42,On Time
+SHP0069,West,Road,94,2,Normal,3.99,77.14,On Time
+SHP0070,North,Rail,480,39,Normal,8.76,190.45,On Time
+SHP0071,West,Rail,800,17,Normal,21.04,130.8,On Time
+SHP0072,East,Road,205,34,Normal,11.15,140.02,On Time
+SHP0073,East,Road,474,21,Normal,8.75,120.3,On Time
+SHP0074,North,Road,147,19,Normal,6.2,142.9,On Time
+SHP0075,East,Road,693,45,Rain,16.1,234.33,On Time
+SHP0076,East,Road,486,5,Normal,10.1,99.14,Late
+SHP0077,East,Air,343,37,Normal,9.4,299.26,On Time
+SHP0078,North,Air,242,38,Normal,2.02,298.72,On Time
+SHP0079,East,Rail,573,19,Rain,22.03,140.31,On Time
+SHP0080,West,Road,677,14,Normal,8.18,137.23,On Time
+SHP0081,East,Rail,942,1,Normal,30.65,131.62,Late
+SHP0082,North,Rail,448,47,Normal,14.64,246.66,On Time
+SHP0083,West,Road,177,48,Normal,5.21,222.54,On Time
+SHP0084,West,Road,836,13,Normal,17.47,185.47,On Time
+SHP0085,North,Road,637,2,Rain,12.35,146.18,On Time
+SHP0086,West,Road,706,7,Normal,17.17,162.67,On Time
+SHP0087,South,Road,115,4,Rain,7.36,97.56,On Time
+SHP0088,East,Road,326,42,Severe,17.94,219.41,On Time
+SHP0089,South,Road,773,45,Normal,13.52,259.45,Late
+SHP0090,West,Rail,836,8,Normal,19.95,90.68,On Time
+SHP0091,West,Air,446,38,Normal,5.94,341.34,On Time
+SHP0092,West,Road,809,9,Rain,19.66,116.34,On Time
+SHP0093,West,Rail,845,19,Normal,23.6,129.15,On Time
+SHP0094,West,Air,400,30,Normal,3.86,323.29,On Time
+SHP0095,North,Road,901,36,Normal,18.3,251.54,On Time
+SHP0096,South,Road,302,44,Rain,9.97,244.55,On Time
+SHP0097,East,Road,255,3,Normal,14.67,84.0,On Time
+SHP0098,East,Road,689,10,Normal,10.71,115.02,On Time
+SHP0099,North,Rail,644,15,Normal,20.84,122.21,On Time
+SHP0100,North,Road,157,16,Severe,18.25,122.02,On Time
+SHP0101,East,Road,836,50,Normal,14.98,267.6,On Time
+SHP0102,East,Road,216,39,Normal,14.07,215.61,On Time
+SHP0103,North,Road,809,17,Rain,21.73,162.6,Late
+SHP0104,North,Air,27,49,Rain,9.28,271.59,On Time
+SHP0105,North,Road,801,25,Normal,15.4,169.35,Late
+SHP0106,East,Road,791,26,Normal,16.06,205.93,On Time
+SHP0107,North,Road,785,22,Rain,17.99,183.55,On Time
+SHP0108,East,Road,672,8,Rain,19.43,117.8,On Time
+SHP0109,South,Road,482,47,Normal,14.34,225.09,On Time
+SHP0110,South,Road,711,1,Normal,14.45,114.7,On Time
+SHP0111,East,Road,291,9,Rain,9.92,103.54,On Time
+SHP0112,East,Road,785,12,Rain,22.39,197.99,Late
+SHP0113,East,Rail,565,14,Rain,23.13,119.26,On Time
+SHP0114,West,Road,470,7,Normal,12.06,112.0,On Time
+SHP0115,West,Road,515,1,Normal,13.01,54.09,On Time
+SHP0116,West,Rail,577,34,Rain,18.56,156.7,On Time
+SHP0117,East,Rail,56,49,Rain,6.64,190.41,On Time
+SHP0118,South,Road,157,7,Rain,6.48,77.91,On Time
+SHP0119,North,Road,260,15,Normal,2.42,157.66,On Time
+SHP0120,East,Road,132,26,Normal,7.19,141.74,On Time
+SHP0121,North,Road,451,47,Rain,13.2,259.35,On Time
+SHP0122,West,Rail,675,35,Normal,16.77,186.86,On Time
+SHP0123,West,Road,661,39,Severe,13.89,222.67,On Time
+SHP0124,North,Rail,482,30,Normal,10.22,160.56,On Time
+SHP0125,West,Rail,858,21,Normal,25.21,154.5,On Time
+SHP0126,North,Road,574,10,Rain,13.47,175.3,On Time
+SHP0127,East,Air,97,44,Normal,5.73,208.87,On Time
+SHP0128,North,Road,770,41,Normal,10.95,187.51,On Time
+SHP0129,South,Rail,583,2,Normal,19.98,75.8,On Time
+SHP0130,East,Road,642,36,Normal,13.97,212.3,On Time
+SHP0131,East,Road,574,5,Normal,14.14,136.61,On Time
+SHP0132,South,Road,563,37,Normal,18.17,220.18,On Time
+SHP0133,West,Road,108,42,Rain,12.41,179.48,On Time
+SHP0134,West,Road,568,7,Normal,10.88,149.66,On Time
+SHP0135,North,Air,799,22,Normal,3.11,382.1,On Time
+SHP0136,East,Road,318,7,Normal,8.48,110.87,On Time
+SHP0137,East,Road,611,29,Normal,15.33,213.13,On Time
+SHP0138,South,Road,50,47,Normal,3.47,204.89,On Time
+SHP0139,East,Road,360,5,Normal,8.93,90.52,On Time
+SHP0140,West,Road,448,20,Normal,14.0,169.35,On Time
+SHP0141,West,Air,984,49,Normal,4.87,476.33,On Time
+SHP0142,West,Road,230,16,Severe,21.98,125.08,On Time
+SHP0143,East,Road,291,7,Normal,9.23,139.78,On Time
+SHP0144,South,Road,420,25,Normal,14.46,105.68,On Time
+SHP0145,West,Road,993,26,Rain,22.78,176.25,On Time
+SHP0146,South,Road,857,34,Rain,22.38,193.99,On Time
+SHP0147,East,Rail,54,16,Normal,3.67,95.51,On Time
+SHP0148,South,Road,249,48,Normal,4.44,209.96,On Time
+SHP0149,South,Air,826,27,Normal,6.12,341.14,On Time
+SHP0150,North,Road,77,15,Normal,6.95,87.13,On Time
+SHP0151,West,Road,859,49,Normal,16.33,243.96,On Time
+SHP0152,North,Rail,296,47,Normal,5.98,260.9,On Time
+SHP0153,North,Air,920,25,Normal,1.24,435.64,On Time
+SHP0154,West,Rail,308,2,Normal,5.85,66.58,On Time
+SHP0155,East,Air,446,30,Severe,9.54,293.39,On Time
+SHP0156,South,Rail,669,28,Normal,18.17,137.92,On Time
+SHP0157,East,Rail,143,8,Normal,10.83,40.04,On Time
+SHP0158,South,Road,566,32,Normal,11.67,192.24,On Time
+SHP0159,North,Rail,515,43,Normal,8.12,176.63,On Time
+SHP0160,East,Road,789,6,Normal,16.1,136.94,On Time
+SHP0161,North,Road,997,37,Rain,21.38,202.97,On Time
+SHP0162,East,Rail,671,8,Rain,28.78,91.31,Late
+SHP0163,West,Air,421,38,Rain,3.36,322.59,On Time
+SHP0164,West,Air,418,21,Severe,11.83,279.55,On Time
+SHP0165,South,Road,430,1,Severe,23.39,108.07,Late
+SHP0166,West,Rail,818,49,Severe,31.44,199.32,On Time
+SHP0167,East,Rail,335,9,Normal,13.52,117.79,On Time
+SHP0168,South,Road,183,30,Normal,6.14,141.52,On Time
+SHP0169,North,Road,347,10,Normal,9.26,132.21,On Time
+SHP0170,South,Road,42,47,Normal,5.82,197.49,On Time
+SHP0171,East,Rail,124,37,Normal,4.99,133.15,On Time
+SHP0172,West,Road,108,41,Rain,10.62,178.31,On Time
+SHP0173,North,Air,776,22,Normal,1.0,361.09,On Time
+SHP0174,East,Road,728,24,Normal,16.62,199.51,Late
+SHP0175,West,Air,703,32,Normal,5.06,360.88,On Time
+SHP0176,West,Road,473,40,Normal,8.55,247.24,On Time
+SHP0177,South,Rail,723,43,Normal,19.0,234.12,Late
+SHP0178,North,Road,178,1,Rain,7.5,72.99,On Time
+SHP0179,South,Road,903,34,Normal,13.89,243.93,On Time
+SHP0180,West,Rail,511,6,Rain,16.87,143.21,On Time
+SHP0181,West,Air,940,15,Normal,2.0,415.85,On Time
+SHP0182,East,Rail,169,42,Normal,9.16,152.73,On Time
+SHP0183,North,Road,507,13,Normal,7.58,115.19,On Time
+SHP0184,North,Road,703,40,Rain,19.31,263.36,On Time
+SHP0185,South,Road,506,24,Rain,10.98,142.75,On Time
+SHP0186,East,Road,457,12,Normal,9.95,99.13,On Time
+SHP0187,North,Rail,183,17,Severe,14.32,101.17,On Time
+SHP0188,East,Rail,393,27,Normal,16.94,160.37,On Time
+SHP0189,East,Rail,254,39,Rain,14.57,175.17,Late
+SHP0190,North,Rail,315,31,Normal,9.41,142.36,On Time
+SHP0191,North,Rail,690,47,Normal,19.73,203.47,On Time
+SHP0192,South,Rail,638,44,Rain,14.78,191.81,On Time
+SHP0193,East,Road,615,38,Normal,13.84,194.42,On Time
+SHP0194,West,Road,374,31,Normal,14.35,232.61,On Time
+SHP0195,South,Road,961,15,Normal,18.16,184.22,On Time
+SHP0196,South,Rail,105,21,Normal,5.52,141.81,On Time
+SHP0197,West,Road,356,6,Normal,10.01,94.76,On Time
+SHP0198,South,Road,135,19,Rain,11.08,121.86,On Time
+SHP0199,South,Rail,352,47,Rain,8.73,187.31,On Time
+SHP0200,South,Road,963,22,Normal,13.1,133.18,On Time
+SHP0201,North,Road,379,6,Normal,9.42,75.15,Late
+SHP0202,South,Air,911,33,Normal,3.02,369.37,On Time
+SHP0203,East,Rail,505,49,Normal,19.4,162.93,On Time
+SHP0204,West,Road,706,44,Normal,12.98,210.46,On Time
+SHP0205,East,Rail,468,14,Severe,18.48,149.06,On Time
+SHP0206,West,Road,280,23,Rain,7.26,147.33,On Time
+SHP0207,East,Rail,769,27,Rain,17.39,198.18,Late
+SHP0208,North,Road,970,13,Normal,17.27,182.01,Late
+SHP0209,South,Road,278,14,Normal,6.75,141.83,On Time
+SHP0210,West,Road,783,12,Normal,13.86,133.7,On Time
+SHP0211,North,Road,276,50,Normal,10.27,236.27,On Time
+SHP0212,West,Air,723,38,Normal,7.96,402.95,On Time
+SHP0213,East,Road,794,43,Normal,16.24,229.11,On Time
+SHP0214,South,Road,460,41,Normal,4.1,225.73,On Time
+SHP0215,West,Road,742,48,Severe,25.14,266.64,Late
+SHP0216,West,Rail,287,6,Normal,10.93,73.53,On Time
+SHP0217,North,Rail,97,45,Severe,15.02,160.42,On Time
+SHP0218,North,Air,114,4,Normal,6.0,127.86,Late
+SHP0219,East,Road,458,24,Normal,8.28,166.63,Late
+SHP0220,West,Road,905,30,Normal,22.55,222.72,Late
+SHP0221,North,Road,145,18,Normal,2.54,105.25,On Time
+SHP0222,East,Road,467,8,Normal,13.78,121.06,On Time
+SHP0223,North,Air,710,10,Normal,1.0,317.89,On Time
+SHP0224,East,Rail,218,42,Rain,10.24,199.25,On Time
+SHP0225,East,Road,727,16,Normal,19.93,199.57,On Time
+SHP0226,North,Road,320,16,Normal,7.19,162.45,On Time
+SHP0227,East,Air,813,47,Normal,8.66,406.43,On Time
+SHP0228,West,Road,588,8,Normal,12.71,169.91,On Time
+SHP0229,West,Road,556,46,Normal,11.26,220.76,On Time
+SHP0230,North,Road,193,47,Normal,9.79,234.15,On Time
+SHP0231,North,Road,474,30,Severe,18.63,184.18,On Time
+SHP0232,North,Road,860,9,Rain,14.74,142.81,On Time
+SHP0233,South,Road,39,8,Rain,4.85,44.94,On Time
+SHP0234,North,Road,764,15,Normal,16.3,158.18,On Time
+SHP0235,West,Road,503,29,Normal,11.85,144.5,On Time
+SHP0236,West,Road,725,8,Rain,13.27,162.99,On Time
+SHP0237,West,Road,670,23,Normal,11.28,214.05,On Time
+SHP0238,North,Air,443,6,Normal,2.36,215.13,On Time
+SHP0239,North,Rail,322,28,Normal,9.13,157.14,On Time
+SHP0240,West,Road,635,2,Rain,12.42,98.82,On Time
+SHP0241,South,Road,157,36,Normal,3.66,160.49,On Time
+SHP0242,East,Air,593,3,Rain,7.28,277.45,On Time
+SHP0243,West,Road,112,10,Rain,10.38,98.48,On Time
+SHP0244,North,Road,657,9,Normal,15.37,179.23,On Time
+SHP0245,North,Air,636,42,Rain,7.51,365.95,On Time
+SHP0246,North,Road,102,3,Normal,3.47,103.03,On Time
+SHP0247,North,Rail,763,22,Normal,20.35,155.27,On Time
+SHP0248,North,Road,427,30,Normal,7.28,198.12,On Time
+SHP0249,West,Rail,791,26,Severe,26.37,154.66,Late
+SHP0250,East,Road,60,35,Normal,2.79,164.31,On Time
+SHP0251,West,Road,196,41,Normal,4.24,189.73,On Time
+SHP0252,West,Road,504,20,Normal,7.5,136.73,On Time
+SHP0253,West,Road,204,42,Normal,6.59,211.79,On Time
+SHP0254,North,Rail,343,16,Normal,12.67,132.84,On Time
+SHP0255,South,Road,668,50,Normal,8.83,267.35,On Time
+SHP0256,West,Road,161,26,Normal,5.55,184.76,On Time
+SHP0257,North,Rail,684,37,Rain,21.08,226.16,On Time
+SHP0258,North,Rail,121,44,Normal,6.65,176.65,On Time
+SHP0259,East,Road,191,40,Rain,10.9,198.28,On Time
+SHP0260,West,Road,596,43,Normal,8.1,213.13,On Time
+SHP0261,West,Air,798,27,Normal,1.24,371.72,On Time
+SHP0262,West,Rail,187,3,Normal,7.24,59.42,On Time
+SHP0263,North,Rail,314,25,Normal,12.86,180.01,On Time
+SHP0264,West,Air,927,10,Severe,7.86,360.67,On Time
+SHP0265,West,Rail,990,45,Normal,25.97,222.32,Late
+SHP0266,East,Road,590,12,Normal,16.91,169.5,On Time
+SHP0267,West,Road,458,12,Normal,9.62,78.86,On Time
+SHP0268,West,Road,360,13,Rain,13.58,78.06,On Time
+SHP0269,South,Rail,620,33,Normal,14.81,196.4,On Time
+SHP0270,North,Air,599,29,Normal,4.0,334.43,On Time
+SHP0271,South,Road,309,48,Rain,6.72,226.59,On Time
+SHP0272,North,Road,42,21,Rain,1.0,93.12,On Time
+SHP0273,North,Road,168,15,Severe,17.22,117.04,Late
+SHP0274,North,Air,960,3,Normal,2.38,387.68,On Time
+SHP0275,East,Road,430,1,Normal,9.84,117.83,On Time
+SHP0276,East,Road,493,19,Normal,8.2,157.25,On Time
+SHP0277,East,Road,478,47,Severe,16.91,219.91,On Time
+SHP0278,East,Road,787,27,Normal,16.12,188.16,On Time
+SHP0279,East,Road,83,45,Rain,7.23,144.12,On Time
+SHP0280,East,Road,101,6,Normal,7.11,93.56,On Time
+SHP0281,North,Road,290,5,Normal,8.73,119.04,On Time
+SHP0282,West,Road,497,42,Normal,11.54,180.06,On Time
+SHP0283,South,Road,678,6,Normal,14.1,114.78,On Time
+SHP0284,North,Road,501,3,Rain,18.63,81.2,On Time
+SHP0285,West,Road,452,21,Normal,6.96,132.53,On Time
+SHP0286,East,Rail,940,47,Normal,25.24,232.18,On Time
+SHP0287,North,Road,177,35,Normal,8.89,124.25,On Time
+SHP0288,North,Road,580,5,Normal,15.46,135.24,On Time
+SHP0289,North,Road,551,42,Normal,7.5,240.02,On Time
+SHP0290,South,Road,484,43,Normal,9.57,213.67,On Time
+SHP0291,North,Road,812,41,Normal,19.3,179.16,Late
+SHP0292,East,Road,281,46,Normal,10.25,188.96,On Time
+SHP0293,East,Rail,955,12,Normal,26.27,163.16,Late
+SHP0294,West,Road,345,49,Normal,7.7,159.4,On Time
+SHP0295,East,Road,554,17,Normal,11.95,143.81,On Time
+SHP0296,East,Road,530,41,Normal,13.46,189.23,Late
+SHP0297,East,Road,853,29,Normal,16.92,227.48,On Time
+SHP0298,North,Road,450,39,Rain,13.3,189.75,On Time
+SHP0299,North,Rail,299,32,Rain,13.36,169.75,Late
+SHP0300,East,Rail,41,33,Normal,3.51,164.82,On Time

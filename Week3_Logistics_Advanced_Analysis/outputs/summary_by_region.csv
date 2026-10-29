@@ -1,0 +1,5 @@
+region,shipments,avg_hours,late_rate
+East,85,13.54,14.12
+North,79,11.58,11.39
+South,56,11.96,16.07
+West,80,12.26,5.0

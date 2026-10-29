@@ -1,0 +1,4 @@
+weather_condition,shipments,avg_hours,late_rate
+Normal,214,11.2,9.35
+Rain,66,14.31,15.15
+Severe,20,18.72,20.0

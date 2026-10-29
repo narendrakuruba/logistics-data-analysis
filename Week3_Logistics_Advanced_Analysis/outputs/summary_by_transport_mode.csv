@@ -1,0 +1,4 @@
+transport_mode,shipments,avg_cost,avg_hours,late_rate
+Air,34,320.69,4.97,2.94
+Rail,67,158.78,15.23,16.42
+Road,199,168.19,12.7,11.06
